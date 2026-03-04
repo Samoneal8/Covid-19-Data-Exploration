@@ -29,4 +29,4 @@
 ---
 ### Files in this Repository
 * `CovidPortfolioProject.sql`: The full SQL script containing all exploration queries.
-* `CovidVisuals.pdf`: Screenshots of the Tableau dashboard.
+* `Covid 19 Dashboard SH.pdf`: Screenshots of the Tableau dashboard.
